@@ -1,3 +1,4 @@
 # Files are too large to commit
+*.csv
 Salary_Data_Based_country_and_race.csv
 survey_results_public.csv
