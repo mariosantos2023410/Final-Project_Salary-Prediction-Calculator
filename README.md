@@ -74,7 +74,7 @@ streamlit run app.py
 ### Predict Page
 <img src="./preview/prediction_page.png"/>
 
-### Response by Age Group
+### Explore Page
 <img src="./preview/explore_page.png"/>
 
 ## References
