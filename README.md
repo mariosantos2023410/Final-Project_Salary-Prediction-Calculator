@@ -25,6 +25,8 @@ This machine-learning web application model will be built from scratch, and it a
 
 The main goal of this project is to gather a significant amount of previous datasets from past years for the field of software development or any other position and their salaries and train the data with machine learning to give the average salary depending on the country specified. This project will serve as a guide for both employers and professionals to stay updated in a shifting economy, and possibly hiring them.
 
+## Dataset link: https://shorturl.at/wKMQY
+
 ## Project Sections
 
 This project is structured as follows:
@@ -103,7 +105,5 @@ All references of this project were sent via CCT Moodle Report.
 Please note that this project is part of CCT College, however, it may contain some part of the code that may be copyrighted, if so, please contact us so we can delete or give due to copyright. All the people were duly referenced and sent via CCT Moodle Report.
 
 Please note this project is non-profit and not intended to be monetized.
-
-## Dataset link:https://shorturl.at/wKMQY
 
 <strong>Built with 💙 by [@Marcos Oliveira](https://www.linkedin.com/in/pgmarcosoliveira/) and [@Mario Saldanha](https://www.linkedin.com/in/mario-saldanha/)</strong>.
